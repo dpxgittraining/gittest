@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/API/PostmonAPI.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/App/Helper/FormGenerator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/App/Helper/InputFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PostmonAPI.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/index.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/style.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/style.less">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/vendor/autoload.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/vendor/composer/ClassLoader.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/vendor/composer/autoload_classmap.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/vendor/composer/autoload_psr4.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/vendor/composer/autoload_real.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/EditorBundle/Resources/js/editor-revolution/draggable.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/FreightBundle/Resources/views/Freight/cart-freight-options.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/FreightBundle/Resources/views/Freight/freight-select.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/src/javascripts/libs/pages/Forms.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/src/javascripts/login/login.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/src/javascripts/login/login_iframe.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/src/javascripts/register/register.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/src/javascripts/register/register_iframe.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/src/javascripts/resetting/resetting.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/src/stylesheets/less/components/popup_bg_wg.less">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/src/stylesheets/less/pages/signin_signout.less">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/views/Checkout/cart.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/views/Home/login.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/views/Home/register.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/src/Zocprint/SiteBundle/Resources/views/base.html.twig">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/web/js/8e9e9eb.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="A:/braprint/web/js/fa88147_cart_5.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
